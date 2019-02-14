@@ -1,2 +1,2 @@
 # HelloWorld
-Hamad, Jacob, Shpati, Artin og Joachim
+Hamad, Jacob(JacobJabs), Shpati, Artin og Joachim
